@@ -1,3 +1,3 @@
 from setuptools import setup
 
-setup(name="mempool", version="0.1.0", py_modules=["mempool"], install_requires=["requests"])
+setup(name="bech32", version="0.1.0", py_modules=["bech32"], install_requires=[])
